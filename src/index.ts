@@ -585,3 +585,4 @@ app.listen(PORT, () => {
   console.log(`  Transport:      Streamable HTTP`);
   console.log(`  Auth:           Bearer passthrough (base64-encoded client_id:client_secret)`);
 });
+// OAuth upgrade 2026-03-19T00:52:20Z
